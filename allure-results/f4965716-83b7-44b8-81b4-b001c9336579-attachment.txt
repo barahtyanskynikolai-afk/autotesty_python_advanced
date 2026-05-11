@@ -1,0 +1,2 @@
+[INFO][2026-05-10 22:41:09,488][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 22:41:14,381][MainPage] Pizza count: 5

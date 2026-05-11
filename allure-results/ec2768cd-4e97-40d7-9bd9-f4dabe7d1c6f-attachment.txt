@@ -1,0 +1,2 @@
+[32mINFO    [0m MainPage:base_page.py:18 Opening URL: http://pizzeria.skillbox.cc/
+[32mINFO    [0m MainPage:main_page.py:66 Pizza count: 5

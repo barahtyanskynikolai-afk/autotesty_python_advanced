@@ -1,0 +1,5 @@
+[32mINFO    [0m MainPage:base_page.py:18 Opening URL: http://pizzeria.skillbox.cc/
+[32mINFO    [0m MainPage:main_page.py:45 Adding pizza via direct add-to-cart URL
+[32mINFO    [0m CartPage:cart_page.py:83 Opening /cart/
+[32mINFO    [0m CartPage:base_page.py:18 Opening URL: http://pizzeria.skillbox.cc/cart/
+[32mINFO    [0m CartPage:cart_page.py:96 Cart items count: 1

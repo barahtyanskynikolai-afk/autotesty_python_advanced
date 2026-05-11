@@ -1,0 +1,6 @@
+[32mINFO    [0m CartPage:cart_page.py:83 Opening /cart/
+[32mINFO    [0m CartPage:base_page.py:18 Opening URL: http://pizzeria.skillbox.cc/cart/
+[32mINFO    [0m CartPage:cart_page.py:136 Cart total: '435,00₽'
+[32mINFO    [0m CartPage:cart_page.py:167 Applying coupon: GIVEMEHALYAVA
+[32mINFO    [0m CartPage:cart_page.py:159 Discount: '43,50₽'
+[32mINFO    [0m CartPage:cart_page.py:136 Cart total: '391,50₽'

@@ -1,0 +1,4 @@
+[INFO][2026-05-10 22:44:40,607][MenuPage] Opening URL: http://pizzeria.skillbox.cc/product-category/menu/deserts/
+[INFO][2026-05-10 22:44:46,609][CartPage] Opening /cart/
+[INFO][2026-05-10 22:44:46,611][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:44:50,413][CartPage] Cart items count: 1

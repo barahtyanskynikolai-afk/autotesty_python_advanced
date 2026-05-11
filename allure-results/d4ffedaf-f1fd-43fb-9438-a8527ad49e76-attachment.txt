@@ -1,0 +1,3 @@
+[32mINFO    [0m CartPage:cart_page.py:83 Opening /cart/
+[32mINFO    [0m CartPage:base_page.py:18 Opening URL: http://pizzeria.skillbox.cc/cart/
+[32mINFO    [0m CartPage:cart_page.py:96 Cart items count: 1

@@ -1,0 +1,13 @@
+[32mINFO    [0m RegisterPage:base_page.py:18 Opening URL: http://pizzeria.skillbox.cc/register/
+[32mINFO    [0m RegisterPage:account_page.py:68 Registering: k4913 / k4913@t.ru
+[32mINFO    [0m RegisterPage:account_page.py:75 After register URL: https://pizzeria.skillbox.cc/register/
+[32mINFO    [0m MainPage:base_page.py:18 Opening URL: http://pizzeria.skillbox.cc/
+[32mINFO    [0m MainPage:main_page.py:45 Adding pizza via direct add-to-cart URL
+[32mINFO    [0m CartPage:cart_page.py:83 Opening /cart/
+[32mINFO    [0m CartPage:base_page.py:18 Opening URL: http://pizzeria.skillbox.cc/cart/
+[32mINFO    [0m CartPage:cart_page.py:184 Clicking checkout button
+[32mINFO    [0m CheckoutPage:checkout_page.py:92 Filling delivery: Андрей Тестов, Москва
+[32mINFO    [0m CheckoutPage:checkout_page.py:106 Setting delivery date: 11.05.2026
+[32mINFO    [0m CheckoutPage:checkout_page.py:118 Selecting Cash on Delivery
+[32mINFO    [0m CheckoutPage:checkout_page.py:130 Clicking Place Order
+[32mINFO    [0m CheckoutPage:checkout_page.py:147 Order confirmed: True

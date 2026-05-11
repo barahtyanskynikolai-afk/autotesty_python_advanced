@@ -1,0 +1,5 @@
+[INFO][2026-05-10 22:38:02,469][CartPage] Opening /cart/
+[INFO][2026-05-10 22:38:02,767][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:38:15,021][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 22:38:15,025][CartPage] Applying coupon: GIVEMEHALYAVA
+[INFO][2026-05-10 22:38:18,287][CartPage] Cart total: '435,00₽'

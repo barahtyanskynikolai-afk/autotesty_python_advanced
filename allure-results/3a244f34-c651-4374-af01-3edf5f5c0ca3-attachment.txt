@@ -1,0 +1,5 @@
+[INFO][2026-05-10 22:40:40,917][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 22:40:44,855][MainPage] Adding pizza via direct add-to-cart URL
+[INFO][2026-05-10 22:40:46,558][CartPage] Opening /cart/
+[INFO][2026-05-10 22:40:46,560][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:40:49,146][CartPage] Cart items count: 1

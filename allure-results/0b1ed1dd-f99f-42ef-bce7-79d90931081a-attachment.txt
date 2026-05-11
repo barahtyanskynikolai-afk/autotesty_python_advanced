@@ -1,0 +1,2 @@
+[INFO][2026-05-10 22:41:33,940][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 22:41:42,644][MainPage] Clicking first pizza image

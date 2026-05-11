@@ -1,0 +1,6 @@
+[INFO][2026-05-10 22:37:18,509][CartPage] Opening /cart/
+[INFO][2026-05-10 22:37:18,612][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:37:22,514][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 22:37:22,519][CartPage] Applying coupon: DC120
+[INFO][2026-05-10 22:37:26,731][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 22:37:32,053][CartPage] Coupon message: 'Неверный купон.'

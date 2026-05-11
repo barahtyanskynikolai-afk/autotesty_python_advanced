@@ -1,0 +1,4 @@
+[INFO][2026-05-10 22:33:52,597][BonusPage] Opening /bonus/
+[INFO][2026-05-10 22:33:52,679][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 22:33:56,454][BonusPage] Clicking Submit (Оформить карту)
+[INFO][2026-05-10 22:34:01,091][BonusPage] Bonus error text: 'Поле "Имя" обязательно для заполнения\nПоле "Телефон" обязательно для заполнения'

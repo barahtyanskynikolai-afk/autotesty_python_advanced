@@ -1,0 +1,18 @@
+[INFO][2026-05-10 22:39:10,514][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 22:39:13,150][RegisterPage] Registering: k7633 / k7633@t.ru
+[INFO][2026-05-10 22:39:20,860][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 22:39:27,773][CartPage] Opening /cart/
+[INFO][2026-05-10 22:39:27,776][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:39:29,035][CartPage] Applying coupon: GIVEMEHALYAVA
+[INFO][2026-05-10 22:39:32,168][CartPage] Clicking checkout button
+[INFO][2026-05-10 22:39:34,399][CheckoutPage] Filling delivery: Тест Тестов, Москва
+[INFO][2026-05-10 22:39:39,616][CheckoutPage] Setting delivery date: 11.05.2026
+[INFO][2026-05-10 22:39:39,999][CheckoutPage] Selecting Cash on Delivery
+[INFO][2026-05-10 22:39:41,034][CheckoutPage] Clicking Place Order
+[INFO][2026-05-10 22:39:42,741][CheckoutPage] Order confirmed: True
+[INFO][2026-05-10 22:39:46,801][CartPage] Opening /cart/
+[INFO][2026-05-10 22:39:46,802][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:39:48,884][CartPage] Cart total: '783,00₽'
+[INFO][2026-05-10 22:39:48,887][CartPage] Applying coupon: GIVEMEHALYAVA
+[INFO][2026-05-10 22:39:50,914][CartPage] Cart total: '783,00₽'
+[INFO][2026-05-10 22:39:56,036][CartPage] Coupon message: 'Coupon code already applied!'

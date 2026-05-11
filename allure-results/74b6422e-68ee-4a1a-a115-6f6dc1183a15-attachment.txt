@@ -1,0 +1,1 @@
+[INFO][2026-05-10 22:44:14,392][MenuPage] Opening URL: http://pizzeria.skillbox.cc/product-category/menu/deserts/

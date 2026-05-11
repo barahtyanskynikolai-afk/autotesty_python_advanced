@@ -1,0 +1,1086 @@
+[INFO][2026-05-10 00:22:22,450][BonusPage] Opening /bonus/
+[INFO][2026-05-10 00:22:22,482][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 00:22:27,958][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 00:22:29,832][BonusPage] Entering phone: +79001234567
+[INFO][2026-05-10 00:22:30,470][BonusPage] Clicking Submit (Оформить карту)
+[INFO][2026-05-10 00:22:31,885][BonusPage] Alert text: Заявка отправлена, дождитесь, пожалуйста, оформления карты!
+[INFO][2026-05-10 00:22:32,214][BonusPage] Waiting for success heading...
+[INFO][2026-05-10 00:22:39,512][BonusPage] Success heading text: Ваша карта оформлена!
+[INFO][2026-05-10 00:23:05,691][BonusPage] Opening /bonus/
+[INFO][2026-05-10 00:23:06,545][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 00:23:16,229][BonusPage] Entering phone: +79001234567
+[INFO][2026-05-10 00:23:16,823][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 00:23:20,644][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 00:23:21,094][BonusPage] Bonus error text: 'Поле "Имя" обязательно для заполнения'
+[INFO][2026-05-10 00:23:37,697][BonusPage] Opening /bonus/
+[INFO][2026-05-10 00:23:38,007][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 00:23:42,482][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 00:23:43,760][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 00:23:47,293][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 00:23:47,455][BonusPage] Bonus error text: 'Поле "Телефон" обязательно для заполнения'
+[INFO][2026-05-10 00:23:57,816][BonusPage] Opening /bonus/
+[INFO][2026-05-10 00:23:57,834][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 00:24:00,713][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 00:24:05,142][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 00:24:05,392][BonusPage] Bonus error text: 'Поле "Имя" обязательно для заполнения\nПоле "Телефон" обязательно для заполнения'
+[INFO][2026-05-10 00:24:18,766][BonusPage] Opening /bonus/
+[INFO][2026-05-10 00:24:18,793][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 00:24:22,762][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 00:24:23,900][BonusPage] Entering phone: abc12345
+[INFO][2026-05-10 00:24:24,739][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 00:24:28,461][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 00:24:28,571][BonusPage] Bonus error text: 'Введен неверный формат телефона'
+[INFO][2026-05-10 00:24:36,473][BonusPage] Opening /bonus/
+[INFO][2026-05-10 00:24:36,496][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 00:24:41,735][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 00:24:44,661][BonusPage] Entering phone: 12345
+[INFO][2026-05-10 00:24:45,775][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 00:24:50,863][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 00:24:50,925][BonusPage] Bonus error text: 'Введен неверный формат телефона'
+[INFO][2026-05-10 00:24:57,890][BonusPage] Opening /bonus/
+[INFO][2026-05-10 00:24:57,953][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 00:25:00,241][BonusPage] Entering name: Мария
+[INFO][2026-05-10 00:25:01,246][BonusPage] Entering phone: 89001234567
+[INFO][2026-05-10 00:25:01,747][BonusPage] Clicking Submit (Оформить карту)
+[INFO][2026-05-10 00:25:02,489][BonusPage] Alert text: Заявка отправлена, дождитесь, пожалуйста, оформления карты!
+[INFO][2026-05-10 00:25:02,757][BonusPage] Waiting for success heading...
+[INFO][2026-05-10 00:25:09,021][BonusPage] Success heading text: Ваша карта оформлена!
+[INFO][2026-05-10 00:25:17,584][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 00:25:43,433][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 00:26:04,803][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 00:26:29,371][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 00:26:51,861][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 00:27:15,932][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 00:27:32,200][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 00:28:18,785][CartPage] Opening /cart/
+[INFO][2026-05-10 00:28:18,787][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 00:28:20,312][CartPage] Cart items count: 1
+[INFO][2026-05-10 00:28:33,623][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 00:28:59,455][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 00:31:06,295][MenuPage] Opening URL: http://pizzeria.skillbox.cc/product-category/menu/deserts/
+[INFO][2026-05-10 00:31:28,482][MenuPage] Opening URL: http://pizzeria.skillbox.cc/product-category/menu/deserts/
+[INFO][2026-05-10 00:31:36,666][CartPage] Opening /cart/
+[INFO][2026-05-10 00:31:36,670][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 00:31:42,645][CartPage] Cart items count: 0
+[INFO][2026-05-10 00:31:52,907][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 00:32:23,333][AccountPage] Opening URL: http://pizzeria.skillbox.cc/my-account/
+[INFO][2026-05-10 00:32:40,760][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 16:21:02,641][BonusPage] Opening /bonus/
+[INFO][2026-05-10 16:21:02,692][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 16:21:10,970][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 16:21:12,326][BonusPage] Entering phone: +79001234567
+[INFO][2026-05-10 16:21:16,759][BonusPage] Clicking Submit (Оформить карту)
+[INFO][2026-05-10 16:21:20,952][BonusPage] Alert text: Заявка отправлена, дождитесь, пожалуйста, оформления карты!
+[INFO][2026-05-10 16:21:21,486][BonusPage] Waiting for success heading...
+[INFO][2026-05-10 16:21:27,980][BonusPage] Success heading text: Ваша карта оформлена!
+[INFO][2026-05-10 16:22:51,050][BonusPage] Opening /bonus/
+[INFO][2026-05-10 16:22:51,059][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 16:22:55,790][BonusPage] Entering phone: +79001234567
+[INFO][2026-05-10 16:22:57,300][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 16:23:01,040][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 16:23:01,699][BonusPage] Bonus error text: 'Поле "Имя" обязательно для заполнения'
+[INFO][2026-05-10 16:23:37,792][BonusPage] Opening /bonus/
+[INFO][2026-05-10 16:23:37,813][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 16:23:41,955][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 16:23:42,732][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 16:23:48,851][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 16:23:49,119][BonusPage] Bonus error text: 'Поле "Телефон" обязательно для заполнения'
+[INFO][2026-05-10 16:24:43,512][BonusPage] Opening /bonus/
+[INFO][2026-05-10 16:24:43,544][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 16:24:47,650][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 16:24:53,327][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 16:24:53,506][BonusPage] Bonus error text: 'Поле "Имя" обязательно для заполнения\nПоле "Телефон" обязательно для заполнения'
+[INFO][2026-05-10 16:25:38,817][BonusPage] Opening /bonus/
+[INFO][2026-05-10 16:25:38,874][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 16:25:43,223][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 16:25:44,796][BonusPage] Entering phone: abc12345
+[INFO][2026-05-10 16:25:45,413][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 16:25:49,927][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 16:25:51,735][BonusPage] Bonus error text: 'Введен неверный формат телефона'
+[INFO][2026-05-10 16:26:40,889][BonusPage] Opening /bonus/
+[INFO][2026-05-10 16:26:40,991][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 16:26:44,782][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 16:26:46,644][BonusPage] Entering phone: 12345
+[INFO][2026-05-10 16:26:48,052][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 16:26:52,968][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 16:26:53,143][BonusPage] Bonus error text: 'Введен неверный формат телефона'
+[INFO][2026-05-10 16:27:10,653][BonusPage] Opening /bonus/
+[INFO][2026-05-10 16:27:11,097][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 16:27:15,327][BonusPage] Entering name: Мария
+[INFO][2026-05-10 16:27:16,518][BonusPage] Entering phone: 89001234567
+[INFO][2026-05-10 16:27:17,338][BonusPage] Clicking Submit (Оформить карту)
+[INFO][2026-05-10 16:27:18,398][BonusPage] Alert text: Заявка отправлена, дождитесь, пожалуйста, оформления карты!
+[INFO][2026-05-10 16:27:18,729][BonusPage] Waiting for success heading...
+[INFO][2026-05-10 16:27:24,187][BonusPage] Success heading text: Ваша карта оформлена!
+[INFO][2026-05-10 16:27:49,239][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 16:28:00,542][MainPage] Adding first pizza to cart
+[INFO][2026-05-10 16:28:41,144][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 16:28:45,675][MainPage] Adding first pizza to cart
+[INFO][2026-05-10 16:29:37,687][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 16:29:44,057][MainPage] Adding first pizza to cart
+[INFO][2026-05-10 16:30:29,420][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 16:30:32,968][RegisterPage] Registering: user_mjskrb / eterenteva@example.com
+[INFO][2026-05-10 16:30:36,660][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 16:31:47,371][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 16:31:53,127][MainPage] Adding first pizza to cart
+[INFO][2026-05-10 16:32:57,159][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 16:33:04,225][MainPage] Pizza count: 5
+[INFO][2026-05-10 16:33:19,714][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 16:33:34,631][MainPage] Clicking first pizza image
+[INFO][2026-05-10 16:34:34,985][CartPage] Opening /cart/
+[INFO][2026-05-10 16:34:35,038][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 16:34:38,688][CartPage] Cart items count: 1
+[INFO][2026-05-10 16:35:12,157][conftest] Pizza added to cart
+[INFO][2026-05-10 16:35:12,290][CartPage] Opening /cart/
+[INFO][2026-05-10 16:35:12,333][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 16:35:14,091][CartPage] Setting item[0] qty to 2
+[INFO][2026-05-10 16:35:15,212][CartPage] Clicking Update Cart
+[INFO][2026-05-10 16:35:16,655][CartPage] Opening /cart/
+[INFO][2026-05-10 16:35:16,706][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 16:36:37,097][conftest] Pizza added to cart
+[INFO][2026-05-10 16:36:37,315][CartPage] Opening /cart/
+[INFO][2026-05-10 16:36:37,827][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 16:36:40,244][CartPage] Cart items count: 1
+[INFO][2026-05-10 16:36:40,576][CartPage] Removing cart item[0]
+[INFO][2026-05-10 16:36:52,800][CartPage] Cart items count: 0
+[INFO][2026-05-10 16:38:04,966][MenuPage] Opening URL: http://pizzeria.skillbox.cc/product-category/menu/deserts/
+[INFO][2026-05-10 16:38:36,838][MenuPage] Opening URL: http://pizzeria.skillbox.cc/product-category/menu/deserts/
+[INFO][2026-05-10 16:38:50,695][CartPage] Opening /cart/
+[INFO][2026-05-10 16:38:51,105][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 16:38:53,452][CartPage] Cart items count: 1
+[INFO][2026-05-10 16:39:19,873][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 16:39:23,955][RegisterPage] Registering: test_fmsewb / nikon_71@example.org
+[INFO][2026-05-10 16:40:03,647][AccountPage] Opening URL: http://pizzeria.skillbox.cc/my-account/
+[INFO][2026-05-10 16:40:39,903][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 16:40:45,678][RegisterPage] Registering: user_bunrft / lavr_96@example.com
+[INFO][2026-05-10 16:51:20,891][BonusPage] Opening /bonus/
+[INFO][2026-05-10 16:51:21,061][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 16:56:39,727][BonusPage] Opening /bonus/
+[INFO][2026-05-10 16:56:40,109][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 16:56:45,027][BonusPage] Entering phone: +79001234567
+[INFO][2026-05-10 16:56:46,674][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 16:56:51,018][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 16:56:51,353][BonusPage] Bonus error text: 'Поле "Имя" обязательно для заполнения'
+[INFO][2026-05-10 16:57:27,268][BonusPage] Opening /bonus/
+[INFO][2026-05-10 16:57:28,382][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 16:57:33,732][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 16:57:36,978][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 16:57:41,913][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 16:57:42,213][BonusPage] Bonus error text: 'Поле "Телефон" обязательно для заполнения'
+[INFO][2026-05-10 16:58:03,816][BonusPage] Opening /bonus/
+[INFO][2026-05-10 16:58:04,115][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 16:58:09,500][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 16:58:14,327][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 16:58:14,424][BonusPage] Bonus error text: 'Поле "Имя" обязательно для заполнения\nПоле "Телефон" обязательно для заполнения'
+[INFO][2026-05-10 16:58:43,895][BonusPage] Opening /bonus/
+[INFO][2026-05-10 16:58:43,897][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 16:58:47,209][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 16:58:49,131][BonusPage] Entering phone: abc12345
+[INFO][2026-05-10 16:58:49,578][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 16:58:56,421][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 16:58:56,587][BonusPage] Bonus error text: 'Введен неверный формат телефона'
+[INFO][2026-05-10 16:59:26,170][BonusPage] Opening /bonus/
+[INFO][2026-05-10 16:59:26,175][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 16:59:31,654][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 16:59:33,313][BonusPage] Entering phone: 12345
+[INFO][2026-05-10 16:59:34,146][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 16:59:38,193][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 16:59:38,330][BonusPage] Bonus error text: 'Введен неверный формат телефона'
+[INFO][2026-05-10 17:00:10,582][BonusPage] Opening /bonus/
+[INFO][2026-05-10 17:00:10,585][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 17:00:15,980][BonusPage] Entering name: Мария
+[INFO][2026-05-10 17:00:17,173][BonusPage] Entering phone: 89001234567
+[INFO][2026-05-10 17:00:20,024][BonusPage] Clicking Submit (Оформить карту)
+[INFO][2026-05-10 17:00:21,567][BonusPage] Alert text: Заявка отправлена, дождитесь, пожалуйста, оформления карты!
+[INFO][2026-05-10 17:00:22,072][BonusPage] Waiting for success heading...
+[INFO][2026-05-10 17:00:28,747][BonusPage] Success heading text: Ваша карта оформлена!
+[INFO][2026-05-10 17:03:00,402][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 17:03:03,788][RegisterPage] Registering: user_ofvnss / evse10@example.org
+[INFO][2026-05-10 17:03:15,585][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[WARNING][2026-05-10 17:03:26,518][RegisterPage] Not logged in. URL=https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 17:04:07,072][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 17:04:10,469][MainPage] Adding pizza via direct add-to-cart URL
+[INFO][2026-05-10 17:04:13,904][CartPage] Opening /cart/
+[INFO][2026-05-10 17:04:13,909][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 17:04:16,771][CartPage] Cart items count: 1
+[INFO][2026-05-10 17:05:24,599][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 17:05:30,841][MainPage] Pizza count: 5
+[INFO][2026-05-10 17:05:53,270][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 17:06:00,085][MainPage] Clicking first pizza image
+[INFO][2026-05-10 17:07:00,609][CartPage] Opening /cart/
+[INFO][2026-05-10 17:07:00,642][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 17:07:02,926][CartPage] Cart items count: 1
+[INFO][2026-05-10 17:07:45,406][conftest] Pizza added to cart
+[INFO][2026-05-10 17:07:45,458][CartPage] Opening /cart/
+[INFO][2026-05-10 17:07:45,460][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 17:07:48,642][CartPage] Setting item[0] qty to 2
+[INFO][2026-05-10 17:07:50,592][CartPage] Clicking Update Cart
+[INFO][2026-05-10 17:07:52,773][CartPage] Opening /cart/
+[INFO][2026-05-10 17:07:52,778][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 17:08:36,965][conftest] Pizza added to cart
+[INFO][2026-05-10 17:08:36,999][CartPage] Opening /cart/
+[INFO][2026-05-10 17:08:37,005][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 17:08:39,001][CartPage] Cart items count: 1
+[INFO][2026-05-10 17:08:39,018][CartPage] Removing cart item[0]
+[INFO][2026-05-10 17:08:45,756][CartPage] Cart items count: 0
+[INFO][2026-05-10 17:09:02,026][MenuPage] Opening URL: http://pizzeria.skillbox.cc/product-category/menu/deserts/
+[INFO][2026-05-10 17:09:39,542][MenuPage] Opening URL: http://pizzeria.skillbox.cc/product-category/menu/deserts/
+[INFO][2026-05-10 17:09:44,494][CartPage] Opening /cart/
+[INFO][2026-05-10 17:09:44,497][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 17:09:48,787][CartPage] Cart items count: 1
+[INFO][2026-05-10 17:10:08,308][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 17:10:19,803][RegisterPage] Registering: test_beareh / alinanoskova@example.org
+[INFO][2026-05-10 17:10:29,578][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 17:11:13,060][AccountPage] Opening URL: http://pizzeria.skillbox.cc/my-account/
+[INFO][2026-05-10 17:11:35,693][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 17:11:41,036][RegisterPage] Registering: user_omahvs / gennadifilippov@example.org
+[INFO][2026-05-10 17:11:55,118][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[WARNING][2026-05-10 17:12:05,530][RegisterPage] Not logged in. URL=https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 17:38:43,559][BonusPage] Opening /bonus/
+[INFO][2026-05-10 17:38:43,922][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 17:38:48,474][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 17:38:49,420][BonusPage] Entering phone: +79001234567
+[INFO][2026-05-10 17:38:50,221][BonusPage] Clicking Submit (Оформить карту)
+[INFO][2026-05-10 17:38:51,129][BonusPage] Alert text: Заявка отправлена, дождитесь, пожалуйста, оформления карты!
+[INFO][2026-05-10 17:38:51,492][BonusPage] Waiting for success heading...
+[INFO][2026-05-10 17:38:58,961][BonusPage] Success heading text: Ваша карта оформлена!
+[INFO][2026-05-10 17:39:38,022][BonusPage] Opening /bonus/
+[INFO][2026-05-10 17:39:38,591][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 17:39:43,165][BonusPage] Entering phone: +79001234567
+[INFO][2026-05-10 17:39:43,900][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 17:39:47,306][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 17:39:47,406][BonusPage] Bonus error text: 'Поле "Имя" обязательно для заполнения'
+[INFO][2026-05-10 17:40:01,214][BonusPage] Opening /bonus/
+[INFO][2026-05-10 17:40:01,217][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 17:40:13,824][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 17:40:17,703][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 17:40:21,454][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 17:40:21,631][BonusPage] Bonus error text: 'Поле "Телефон" обязательно для заполнения'
+[INFO][2026-05-10 17:40:47,545][BonusPage] Opening /bonus/
+[INFO][2026-05-10 17:40:47,550][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 17:40:53,418][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 17:40:57,262][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 17:40:57,388][BonusPage] Bonus error text: 'Поле "Имя" обязательно для заполнения\nПоле "Телефон" обязательно для заполнения'
+[INFO][2026-05-10 17:41:14,458][BonusPage] Opening /bonus/
+[INFO][2026-05-10 17:41:14,461][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 17:41:32,342][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 17:41:39,448][BonusPage] Entering phone: abc12345
+[INFO][2026-05-10 17:41:42,954][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 17:41:47,751][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 17:41:47,983][BonusPage] Bonus error text: 'Введен неверный формат телефона'
+[INFO][2026-05-10 17:42:16,779][BonusPage] Opening /bonus/
+[INFO][2026-05-10 17:42:17,808][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 17:42:25,651][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 17:42:27,120][BonusPage] Entering phone: 12345
+[INFO][2026-05-10 17:42:29,536][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 17:42:34,271][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 17:42:34,474][BonusPage] Bonus error text: 'Введен неверный формат телефона'
+[INFO][2026-05-10 17:42:52,791][BonusPage] Opening /bonus/
+[INFO][2026-05-10 17:42:52,856][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 17:42:57,093][BonusPage] Entering name: Мария
+[INFO][2026-05-10 17:42:58,060][BonusPage] Entering phone: 89001234567
+[INFO][2026-05-10 17:42:58,514][BonusPage] Clicking Submit (Оформить карту)
+[INFO][2026-05-10 17:42:59,014][BonusPage] Alert text: Заявка отправлена, дождитесь, пожалуйста, оформления карты!
+[INFO][2026-05-10 17:42:59,321][BonusPage] Waiting for success heading...
+[INFO][2026-05-10 17:43:05,149][BonusPage] Success heading text: Ваша карта оформлена!
+[INFO][2026-05-10 17:43:25,247][CartPage] Opening /cart/
+[INFO][2026-05-10 17:43:25,251][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 17:43:29,645][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 17:43:29,653][CartPage] Applying coupon: GIVEMEHALYAVA
+[INFO][2026-05-10 17:43:32,285][CartPage] Discount: '43,50₽'
+[INFO][2026-05-10 17:43:32,465][CartPage] Cart total: '391,50₽'
+[INFO][2026-05-10 17:43:56,452][CartPage] Opening /cart/
+[INFO][2026-05-10 17:43:56,457][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 17:43:59,179][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 17:43:59,181][CartPage] Applying coupon: DC120
+[INFO][2026-05-10 17:44:02,548][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 17:44:08,425][CartPage] Coupon message: 'Неверный купон.'
+[INFO][2026-05-10 17:44:33,467][CartPage] Opening /cart/
+[INFO][2026-05-10 17:44:33,530][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 17:44:37,392][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 17:44:37,397][CartPage] Applying coupon: GIVEMEHALYAVA
+[INFO][2026-05-10 17:44:43,638][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 17:45:20,499][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 17:45:24,251][RegisterPage] Registering: user_vocgkr / apollon_1989@example.org
+[INFO][2026-05-10 17:45:31,847][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[WARNING][2026-05-10 17:45:42,190][RegisterPage] Not logged in. URL=https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 17:45:57,811][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 17:46:15,004][MainPage] Adding pizza via direct add-to-cart URL
+[INFO][2026-05-10 17:46:29,125][CartPage] Opening /cart/
+[INFO][2026-05-10 17:46:29,406][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 17:46:32,222][CartPage] Cart items count: 1
+[INFO][2026-05-10 17:47:15,221][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 17:47:22,176][MainPage] Pizza count: 5
+[INFO][2026-05-10 17:47:40,670][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 17:47:44,537][MainPage] Clicking first pizza image
+[INFO][2026-05-10 17:48:38,924][CartPage] Opening /cart/
+[INFO][2026-05-10 17:48:38,948][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 17:48:41,124][CartPage] Cart items count: 1
+[INFO][2026-05-10 17:49:01,157][conftest] Pizza added to cart
+[INFO][2026-05-10 17:49:01,169][CartPage] Opening /cart/
+[INFO][2026-05-10 17:49:01,172][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 17:49:01,605][CartPage] Setting item[0] qty to 2
+[INFO][2026-05-10 17:49:03,004][CartPage] Clicking Update Cart
+[INFO][2026-05-10 17:49:04,005][CartPage] Opening /cart/
+[INFO][2026-05-10 17:49:04,011][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 17:49:50,434][conftest] Pizza added to cart
+[INFO][2026-05-10 17:49:50,574][CartPage] Opening /cart/
+[INFO][2026-05-10 17:49:50,585][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 17:49:52,605][CartPage] Cart items count: 1
+[INFO][2026-05-10 17:49:52,638][CartPage] Removing cart item[0]
+[INFO][2026-05-10 17:50:01,795][CartPage] Cart items count: 0
+[INFO][2026-05-10 17:50:35,815][MenuPage] Opening URL: http://pizzeria.skillbox.cc/product-category/menu/deserts/
+[INFO][2026-05-10 17:51:04,761][MenuPage] Opening URL: http://pizzeria.skillbox.cc/product-category/menu/deserts/
+[INFO][2026-05-10 17:51:11,306][CartPage] Opening /cart/
+[INFO][2026-05-10 17:51:11,310][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 17:51:12,992][CartPage] Cart items count: 1
+[INFO][2026-05-10 17:51:27,811][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 17:51:30,227][RegisterPage] Registering: test_lhjtzi / fademjasnikov@example.net
+[INFO][2026-05-10 17:51:36,011][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 17:51:56,749][AccountPage] Opening URL: http://pizzeria.skillbox.cc/my-account/
+[INFO][2026-05-10 17:52:25,802][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 17:52:28,947][RegisterPage] Registering: user_hydlmn / gusevmakar@example.org
+[INFO][2026-05-10 17:52:35,071][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[WARNING][2026-05-10 17:52:45,657][RegisterPage] Not logged in. URL=https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 18:03:51,048][BonusPage] Opening /bonus/
+[INFO][2026-05-10 18:03:51,419][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 18:03:55,088][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 18:03:55,845][BonusPage] Entering phone: +79001234567
+[INFO][2026-05-10 18:03:56,359][BonusPage] Clicking Submit (Оформить карту)
+[INFO][2026-05-10 18:03:57,000][BonusPage] Alert text: Заявка отправлена, дождитесь, пожалуйста, оформления карты!
+[INFO][2026-05-10 18:03:57,149][BonusPage] Waiting for success heading...
+[INFO][2026-05-10 18:04:03,236][BonusPage] Success heading text: Ваша карта оформлена!
+[INFO][2026-05-10 18:04:34,074][BonusPage] Opening /bonus/
+[INFO][2026-05-10 18:04:35,490][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 18:04:38,610][BonusPage] Entering phone: +79001234567
+[INFO][2026-05-10 18:04:39,452][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 18:04:43,572][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 18:04:43,731][BonusPage] Bonus error text: 'Поле "Имя" обязательно для заполнения'
+[INFO][2026-05-10 18:05:03,144][BonusPage] Opening /bonus/
+[INFO][2026-05-10 18:05:03,178][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 18:05:07,579][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 18:05:08,286][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 18:05:18,236][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 18:05:18,308][BonusPage] Bonus error text: 'Поле "Телефон" обязательно для заполнения'
+[INFO][2026-05-10 18:05:44,123][BonusPage] Opening /bonus/
+[INFO][2026-05-10 18:05:44,181][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 18:05:48,617][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 18:05:52,559][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 18:05:52,673][BonusPage] Bonus error text: 'Поле "Имя" обязательно для заполнения\nПоле "Телефон" обязательно для заполнения'
+[INFO][2026-05-10 18:06:09,075][BonusPage] Opening /bonus/
+[INFO][2026-05-10 18:06:09,735][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 18:06:14,180][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 18:06:15,355][BonusPage] Entering phone: abc12345
+[INFO][2026-05-10 18:06:16,110][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 18:06:20,747][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 18:06:20,931][BonusPage] Bonus error text: 'Введен неверный формат телефона'
+[INFO][2026-05-10 18:07:06,553][BonusPage] Opening /bonus/
+[INFO][2026-05-10 18:07:06,578][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 18:07:13,029][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 18:07:14,787][BonusPage] Entering phone: 12345
+[INFO][2026-05-10 18:07:15,692][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 18:07:19,741][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 18:07:19,851][BonusPage] Bonus error text: 'Введен неверный формат телефона'
+[INFO][2026-05-10 18:07:32,833][BonusPage] Opening /bonus/
+[INFO][2026-05-10 18:07:32,835][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 18:07:36,335][BonusPage] Entering name: Мария
+[INFO][2026-05-10 18:07:37,739][BonusPage] Entering phone: 89001234567
+[INFO][2026-05-10 18:07:38,357][BonusPage] Clicking Submit (Оформить карту)
+[INFO][2026-05-10 18:07:39,133][BonusPage] Alert text: Заявка отправлена, дождитесь, пожалуйста, оформления карты!
+[INFO][2026-05-10 18:07:39,233][BonusPage] Waiting for success heading...
+[INFO][2026-05-10 18:07:45,786][BonusPage] Success heading text: Ваша карта оформлена!
+[INFO][2026-05-10 18:08:17,950][CartPage] Opening /cart/
+[INFO][2026-05-10 18:08:18,344][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 18:08:22,879][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 18:08:24,274][CartPage] Applying coupon: GIVEMEHALYAVA
+[INFO][2026-05-10 18:08:28,427][CartPage] Discount: '43,50₽'
+[INFO][2026-05-10 18:08:28,781][CartPage] Cart total: '391,50₽'
+[INFO][2026-05-10 18:08:58,960][CartPage] Opening /cart/
+[INFO][2026-05-10 18:09:00,742][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 18:09:03,575][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 18:09:03,577][CartPage] Applying coupon: DC120
+[INFO][2026-05-10 18:09:06,160][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 18:09:17,177][CartPage] Coupon message: 'Неверный купон.'
+[INFO][2026-05-10 18:10:00,938][CartPage] Opening /cart/
+[INFO][2026-05-10 18:10:01,059][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 18:10:03,513][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 18:10:03,517][CartPage] Applying coupon: GIVEMEHALYAVA
+[INFO][2026-05-10 18:10:05,592][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 18:10:23,802][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 18:10:27,843][RegisterPage] Registering: upostef / wrwxyf@mail.ru
+[INFO][2026-05-10 18:10:37,189][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[WARNING][2026-05-10 18:10:47,357][RegisterPage] Not logged in. URL=https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 18:11:19,371][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 18:11:23,720][MainPage] Adding pizza via direct add-to-cart URL
+[INFO][2026-05-10 18:11:29,465][CartPage] Opening /cart/
+[INFO][2026-05-10 18:11:29,619][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 18:11:31,237][CartPage] Cart items count: 1
+[INFO][2026-05-10 18:11:49,446][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 18:11:54,520][MainPage] Pizza count: 5
+[INFO][2026-05-10 18:12:24,118][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 18:12:30,318][MainPage] Clicking first pizza image
+[INFO][2026-05-10 18:13:23,389][CartPage] Opening /cart/
+[INFO][2026-05-10 18:13:23,644][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 18:13:25,228][CartPage] Cart items count: 1
+[INFO][2026-05-10 18:13:45,558][conftest] Pizza added to cart
+[INFO][2026-05-10 18:13:45,633][CartPage] Opening /cart/
+[INFO][2026-05-10 18:13:45,703][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 18:13:47,308][CartPage] Setting item[0] qty to 2
+[INFO][2026-05-10 18:13:48,033][CartPage] Clicking Update Cart
+[INFO][2026-05-10 18:13:49,194][CartPage] Opening /cart/
+[INFO][2026-05-10 18:13:49,202][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 18:14:06,819][conftest] Pizza added to cart
+[INFO][2026-05-10 18:14:06,833][CartPage] Opening /cart/
+[INFO][2026-05-10 18:14:06,835][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 18:14:08,227][CartPage] Cart items count: 1
+[INFO][2026-05-10 18:14:08,231][CartPage] Removing cart item[0]
+[INFO][2026-05-10 18:14:14,416][CartPage] Cart items count: 0
+[INFO][2026-05-10 18:14:30,682][MenuPage] Opening URL: http://pizzeria.skillbox.cc/product-category/menu/deserts/
+[INFO][2026-05-10 18:14:50,334][MenuPage] Opening URL: http://pizzeria.skillbox.cc/product-category/menu/deserts/
+[INFO][2026-05-10 18:15:05,310][CartPage] Opening /cart/
+[INFO][2026-05-10 18:15:05,326][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 18:15:09,096][CartPage] Cart items count: 1
+[INFO][2026-05-10 18:15:29,910][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 18:15:35,394][RegisterPage] Registering: test_qlcvvj / fadeevmstislav@example.com
+[INFO][2026-05-10 18:15:47,053][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 18:16:22,458][AccountPage] Opening URL: http://pizzeria.skillbox.cc/my-account/
+[INFO][2026-05-10 18:16:42,684][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 18:16:46,956][RegisterPage] Registering: usvlzbg / ruysto@mail.ru
+[INFO][2026-05-10 18:16:54,243][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[WARNING][2026-05-10 18:17:05,644][RegisterPage] Not logged in. URL=https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 18:32:13,078][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 18:32:18,695][RegisterPage] Registering: test_mnokeu / ilinapollon@example.org
+[INFO][2026-05-10 18:32:27,273][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 18:33:25,695][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 18:33:29,994][RegisterPage] Registering: test_pfgcfr / antoninashestakova@example.net
+[INFO][2026-05-10 18:33:39,895][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 18:37:10,720][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 18:37:14,696][RegisterPage] Registering: test_szczzx / vladilen11@example.org
+[INFO][2026-05-10 18:37:23,663][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 18:44:54,232][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 18:45:05,800][RegisterPage] Registering: test_qfikvz / sofija2003@example.org
+[INFO][2026-05-10 18:45:33,074][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 18:53:51,295][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 18:53:56,990][RegisterPage] Registering: kolia / b@gmail.com
+[INFO][2026-05-10 18:54:05,624][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 18:56:49,235][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 18:56:53,496][RegisterPage] Registering: kolia / b968@gmail.com
+[INFO][2026-05-10 18:57:09,539][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 19:03:44,620][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 19:03:53,955][RegisterPage] Registering: k343 / k343@gmail.com
+[INFO][2026-05-10 19:04:04,760][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 19:08:38,502][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 19:08:45,489][RegisterPage] Registering: k813 / k813@gmail.com
+[INFO][2026-05-10 19:08:53,962][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 19:18:01,976][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 19:18:04,832][RegisterPage] Registering: k335 / k335@gmail.com
+[INFO][2026-05-10 19:18:14,211][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 19:24:11,177][BonusPage] Opening /bonus/
+[INFO][2026-05-10 19:24:11,226][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 19:24:15,408][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 19:24:17,605][BonusPage] Entering phone: +79001234567
+[INFO][2026-05-10 19:24:21,102][BonusPage] Clicking Submit (Оформить карту)
+[INFO][2026-05-10 19:24:23,855][BonusPage] Alert text: Заявка отправлена, дождитесь, пожалуйста, оформления карты!
+[INFO][2026-05-10 19:24:24,969][BonusPage] Waiting for success heading...
+[INFO][2026-05-10 19:24:29,875][BonusPage] Success heading text: Ваша карта оформлена!
+[INFO][2026-05-10 19:24:58,962][BonusPage] Opening /bonus/
+[INFO][2026-05-10 19:24:59,006][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 19:25:02,177][BonusPage] Entering phone: +79001234567
+[INFO][2026-05-10 19:25:03,774][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 19:25:08,118][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 19:25:08,405][BonusPage] Bonus error text: 'Поле "Имя" обязательно для заполнения'
+[INFO][2026-05-10 19:25:33,934][BonusPage] Opening /bonus/
+[INFO][2026-05-10 19:25:33,942][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 19:25:37,620][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 19:25:40,019][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 19:25:44,225][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 19:25:45,195][BonusPage] Bonus error text: 'Поле "Телефон" обязательно для заполнения'
+[INFO][2026-05-10 19:26:02,104][BonusPage] Opening /bonus/
+[INFO][2026-05-10 19:26:02,106][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 19:26:07,947][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 19:26:12,447][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 19:26:13,122][BonusPage] Bonus error text: 'Поле "Имя" обязательно для заполнения\nПоле "Телефон" обязательно для заполнения'
+[INFO][2026-05-10 19:26:36,203][BonusPage] Opening /bonus/
+[INFO][2026-05-10 19:26:36,208][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 19:26:41,611][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 19:26:43,916][BonusPage] Entering phone: abc12345
+[INFO][2026-05-10 19:26:46,070][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 19:26:50,801][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 19:26:51,026][BonusPage] Bonus error text: 'Введен неверный формат телефона'
+[INFO][2026-05-10 19:27:15,564][BonusPage] Opening /bonus/
+[INFO][2026-05-10 19:27:15,568][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 19:27:20,394][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 19:27:22,209][BonusPage] Entering phone: 12345
+[INFO][2026-05-10 19:27:23,956][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 19:27:29,102][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 19:27:29,428][BonusPage] Bonus error text: 'Введен неверный формат телефона'
+[INFO][2026-05-10 19:28:17,517][BonusPage] Opening /bonus/
+[INFO][2026-05-10 19:28:17,657][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 19:28:22,635][BonusPage] Entering name: Мария
+[INFO][2026-05-10 19:28:23,734][BonusPage] Entering phone: 89001234567
+[INFO][2026-05-10 19:28:24,429][BonusPage] Clicking Submit (Оформить карту)
+[INFO][2026-05-10 19:28:26,029][BonusPage] Alert text: Заявка отправлена, дождитесь, пожалуйста, оформления карты!
+[INFO][2026-05-10 19:28:26,149][BonusPage] Waiting for success heading...
+[INFO][2026-05-10 19:28:32,607][BonusPage] Success heading text: Ваша карта оформлена!
+[INFO][2026-05-10 19:29:09,133][CartPage] Opening /cart/
+[INFO][2026-05-10 19:29:09,144][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 19:29:12,680][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 19:29:12,700][CartPage] Applying coupon: GIVEMEHALYAVA
+[INFO][2026-05-10 19:29:16,170][CartPage] Discount: '43,50₽'
+[INFO][2026-05-10 19:29:17,048][CartPage] Cart total: '391,50₽'
+[INFO][2026-05-10 19:29:41,246][CartPage] Opening /cart/
+[INFO][2026-05-10 19:29:42,575][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 19:29:44,928][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 19:29:44,940][CartPage] Applying coupon: DC120
+[INFO][2026-05-10 19:30:17,994][CartPage] Opening /cart/
+[INFO][2026-05-10 19:30:19,652][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 19:30:24,702][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 19:30:24,706][CartPage] Applying coupon: GIVEMEHALYAVA
+[INFO][2026-05-10 19:30:27,871][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 19:30:57,183][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 19:31:00,291][RegisterPage] Registering: k620 / k620@gmail.com
+[INFO][2026-05-10 19:31:12,009][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[WARNING][2026-05-10 19:31:22,112][RegisterPage] Not logged in. URL=https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 19:31:47,950][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 19:31:54,293][MainPage] Adding pizza via direct add-to-cart URL
+[INFO][2026-05-10 19:31:56,441][CartPage] Opening /cart/
+[INFO][2026-05-10 19:31:56,443][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 19:31:57,806][CartPage] Cart items count: 1
+[INFO][2026-05-10 19:32:19,065][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 19:32:22,709][MainPage] Pizza count: 5
+[INFO][2026-05-10 19:32:56,700][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 19:33:02,712][MainPage] Clicking first pizza image
+[INFO][2026-05-10 19:34:07,812][CartPage] Opening /cart/
+[INFO][2026-05-10 19:34:07,881][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 19:34:11,272][CartPage] Cart items count: 1
+[INFO][2026-05-10 19:34:47,956][conftest] Pizza added to cart
+[INFO][2026-05-10 19:34:48,118][CartPage] Opening /cart/
+[INFO][2026-05-10 19:34:48,150][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 19:34:50,592][CartPage] Setting item[0] qty to 2
+[INFO][2026-05-10 19:34:52,121][CartPage] Clicking Update Cart
+[INFO][2026-05-10 19:34:53,658][CartPage] Opening /cart/
+[INFO][2026-05-10 19:34:53,662][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 19:36:07,194][conftest] Pizza added to cart
+[INFO][2026-05-10 19:36:07,292][CartPage] Opening /cart/
+[INFO][2026-05-10 19:36:07,820][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 19:36:09,385][CartPage] Cart items count: 1
+[INFO][2026-05-10 19:36:09,417][CartPage] Removing cart item[0]
+[INFO][2026-05-10 19:36:18,719][CartPage] Cart items count: 0
+[INFO][2026-05-10 19:37:14,404][MenuPage] Opening URL: http://pizzeria.skillbox.cc/product-category/menu/deserts/
+[INFO][2026-05-10 19:37:32,402][MenuPage] Opening URL: http://pizzeria.skillbox.cc/product-category/menu/deserts/
+[INFO][2026-05-10 19:37:39,142][CartPage] Opening /cart/
+[INFO][2026-05-10 19:37:39,151][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 19:37:47,225][CartPage] Cart items count: 1
+[INFO][2026-05-10 19:38:11,115][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 19:38:16,404][RegisterPage] Registering: k194 / k194@gmail.com
+[INFO][2026-05-10 19:38:26,003][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 19:38:45,969][AccountPage] Opening URL: http://pizzeria.skillbox.cc/my-account/
+[INFO][2026-05-10 19:39:05,059][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 19:39:15,650][RegisterPage] Registering: k360 / k360@gmail.com
+[INFO][2026-05-10 19:39:21,836][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[WARNING][2026-05-10 19:39:32,442][RegisterPage] Not logged in. URL=https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 19:47:53,254][BonusPage] Opening /bonus/
+[INFO][2026-05-10 19:47:55,717][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 19:48:01,155][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 19:48:02,549][BonusPage] Entering phone: +79001234567
+[INFO][2026-05-10 19:48:03,063][BonusPage] Clicking Submit (Оформить карту)
+[INFO][2026-05-10 19:48:03,934][BonusPage] Alert text: Заявка отправлена, дождитесь, пожалуйста, оформления карты!
+[INFO][2026-05-10 19:48:04,105][BonusPage] Waiting for success heading...
+[INFO][2026-05-10 19:48:10,104][BonusPage] Success heading text: Ваша карта оформлена!
+[INFO][2026-05-10 19:48:26,866][BonusPage] Opening /bonus/
+[INFO][2026-05-10 19:48:27,585][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 19:48:30,185][BonusPage] Entering phone: +79001234567
+[INFO][2026-05-10 19:48:31,183][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 19:48:38,189][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 19:48:42,557][BonusPage] Bonus error text: 'Поле "Имя" обязательно для заполнения'
+[INFO][2026-05-10 19:49:33,092][BonusPage] Opening /bonus/
+[INFO][2026-05-10 19:49:33,813][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 19:49:37,748][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 19:49:39,004][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 19:49:42,723][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 19:49:43,516][BonusPage] Bonus error text: 'Поле "Телефон" обязательно для заполнения'
+[INFO][2026-05-10 19:50:07,626][BonusPage] Opening /bonus/
+[INFO][2026-05-10 19:50:07,671][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 19:50:11,119][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 19:50:15,472][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 19:50:15,660][BonusPage] Bonus error text: 'Поле "Имя" обязательно для заполнения\nПоле "Телефон" обязательно для заполнения'
+[INFO][2026-05-10 19:50:33,155][BonusPage] Opening /bonus/
+[INFO][2026-05-10 19:50:33,232][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 19:50:37,569][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 19:50:38,065][BonusPage] Entering phone: abc12345
+[INFO][2026-05-10 19:50:39,101][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 19:50:42,959][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 19:50:43,014][BonusPage] Bonus error text: 'Введен неверный формат телефона'
+[INFO][2026-05-10 19:50:58,232][BonusPage] Opening /bonus/
+[INFO][2026-05-10 19:50:58,377][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 19:51:03,644][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 19:51:04,887][BonusPage] Entering phone: 12345
+[INFO][2026-05-10 19:51:12,030][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 19:51:16,418][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 19:51:16,576][BonusPage] Bonus error text: 'Введен неверный формат телефона'
+[INFO][2026-05-10 19:51:40,854][BonusPage] Opening /bonus/
+[INFO][2026-05-10 19:51:40,861][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 19:51:44,938][BonusPage] Entering name: Мария
+[INFO][2026-05-10 19:51:45,656][BonusPage] Entering phone: 89001234567
+[INFO][2026-05-10 19:51:46,749][BonusPage] Clicking Submit (Оформить карту)
+[INFO][2026-05-10 19:51:48,200][BonusPage] Alert text: Заявка отправлена, дождитесь, пожалуйста, оформления карты!
+[INFO][2026-05-10 19:51:48,791][BonusPage] Waiting for success heading...
+[INFO][2026-05-10 19:51:53,501][BonusPage] Success heading text: Ваша карта оформлена!
+[INFO][2026-05-10 19:52:19,231][CartPage] Opening /cart/
+[INFO][2026-05-10 19:52:19,239][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 19:52:30,292][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 19:52:31,679][CartPage] Applying coupon: GIVEMEHALYAVA
+[INFO][2026-05-10 19:52:40,286][CartPage] Discount: '43,50₽'
+[INFO][2026-05-10 19:52:40,633][CartPage] Cart total: '391,50₽'
+[INFO][2026-05-10 19:53:25,448][CartPage] Opening /cart/
+[INFO][2026-05-10 19:53:27,968][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 19:53:33,688][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 19:53:33,820][CartPage] Applying coupon: DC120
+[INFO][2026-05-10 19:54:29,254][CartPage] Opening /cart/
+[INFO][2026-05-10 19:54:29,678][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 19:54:31,854][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 19:54:31,872][CartPage] Applying coupon: GIVEMEHALYAVA
+[INFO][2026-05-10 19:54:33,888][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 19:55:31,319][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 19:55:35,529][RegisterPage] Registering: k6902 / k6902@gmail.com
+[INFO][2026-05-10 19:55:45,837][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 19:55:50,061][CartPage] Opening /cart/
+[INFO][2026-05-10 19:55:50,132][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 19:55:51,201][CartPage] Applying coupon: GIVEMEHALYAVA
+[INFO][2026-05-10 19:55:53,869][CartPage] Clicking checkout button
+[INFO][2026-05-10 19:56:27,769][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 19:56:31,808][MainPage] Adding pizza via direct add-to-cart URL
+[INFO][2026-05-10 19:56:34,936][CartPage] Opening /cart/
+[INFO][2026-05-10 19:56:34,941][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 19:56:39,284][CartPage] Cart items count: 1
+[INFO][2026-05-10 19:57:41,306][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 19:57:53,707][MainPage] Pizza count: 5
+[INFO][2026-05-10 19:58:29,272][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 19:58:33,184][MainPage] Clicking first pizza image
+[INFO][2026-05-10 19:59:25,974][CartPage] Opening /cart/
+[INFO][2026-05-10 19:59:26,090][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 19:59:27,736][CartPage] Cart items count: 1
+[INFO][2026-05-10 20:00:01,745][conftest] Pizza added to cart
+[INFO][2026-05-10 20:00:01,764][CartPage] Opening /cart/
+[INFO][2026-05-10 20:00:01,773][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 20:00:03,142][CartPage] Setting item[0] qty to 2
+[INFO][2026-05-10 20:00:05,271][CartPage] Clicking Update Cart
+[INFO][2026-05-10 20:00:07,514][CartPage] Opening /cart/
+[INFO][2026-05-10 20:00:07,521][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 20:00:30,752][conftest] Pizza added to cart
+[INFO][2026-05-10 20:00:30,868][CartPage] Opening /cart/
+[INFO][2026-05-10 20:00:31,386][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 20:00:33,640][CartPage] Cart items count: 1
+[INFO][2026-05-10 20:00:33,654][CartPage] Removing cart item[0]
+[INFO][2026-05-10 20:00:40,480][CartPage] Cart items count: 0
+[INFO][2026-05-10 20:01:07,245][MenuPage] Opening URL: http://pizzeria.skillbox.cc/product-category/menu/deserts/
+[INFO][2026-05-10 20:01:28,617][MenuPage] Opening URL: http://pizzeria.skillbox.cc/product-category/menu/deserts/
+[INFO][2026-05-10 20:01:35,998][CartPage] Opening /cart/
+[INFO][2026-05-10 20:01:36,265][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 20:01:38,902][CartPage] Cart items count: 1
+[INFO][2026-05-10 20:02:07,015][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 20:02:10,810][RegisterPage] Registering: k459 / k459@gmail.com
+[INFO][2026-05-10 20:02:21,908][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 20:02:58,072][AccountPage] Opening URL: http://pizzeria.skillbox.cc/my-account/
+[INFO][2026-05-10 20:03:29,536][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 20:03:33,337][RegisterPage] Registering: k5383 / k5383@gmail.com
+[INFO][2026-05-10 20:03:42,268][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 20:03:42,765][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 20:03:49,793][MainPage] Adding pizza via direct add-to-cart URL
+[INFO][2026-05-10 20:03:53,041][CartPage] Opening /cart/
+[INFO][2026-05-10 20:03:53,048][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 20:03:54,563][CartPage] Clicking checkout button
+[INFO][2026-05-10 20:03:57,591][CheckoutPage] Filling delivery: Андрей Тестов, Москва
+[INFO][2026-05-10 20:04:03,547][CheckoutPage] Setting delivery date: 11.05.2026
+[INFO][2026-05-10 20:04:04,429][CheckoutPage] Selecting Cash on Delivery
+[INFO][2026-05-10 20:04:05,253][CheckoutPage] Clicking Place Order
+[INFO][2026-05-10 20:04:06,529][CheckoutPage] Order confirmed: True
+[INFO][2026-05-10 21:31:07,610][BonusPage] Opening /bonus/
+[INFO][2026-05-10 21:31:08,479][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 21:31:11,474][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 21:31:12,202][BonusPage] Entering phone: +79001234567
+[INFO][2026-05-10 21:31:12,641][BonusPage] Clicking Submit (Оформить карту)
+[INFO][2026-05-10 21:31:13,357][BonusPage] Alert text: Заявка отправлена, дождитесь, пожалуйста, оформления карты!
+[INFO][2026-05-10 21:31:13,538][BonusPage] Waiting for success heading...
+[INFO][2026-05-10 21:31:19,284][BonusPage] Success heading text: Ваша карта оформлена!
+[INFO][2026-05-10 21:31:53,602][BonusPage] Opening /bonus/
+[INFO][2026-05-10 21:31:54,406][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 21:32:02,706][BonusPage] Entering phone: +79001234567
+[INFO][2026-05-10 21:32:12,235][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 21:32:16,686][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 21:32:16,863][BonusPage] Bonus error text: 'Поле "Имя" обязательно для заполнения'
+[INFO][2026-05-10 21:33:00,586][BonusPage] Opening /bonus/
+[INFO][2026-05-10 21:33:00,676][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 21:33:04,359][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 21:33:05,600][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 21:33:12,194][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 21:33:12,374][BonusPage] Bonus error text: 'Поле "Телефон" обязательно для заполнения'
+[INFO][2026-05-10 21:33:38,880][BonusPage] Opening /bonus/
+[INFO][2026-05-10 21:33:38,944][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 21:33:43,401][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 21:33:47,751][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 21:33:48,043][BonusPage] Bonus error text: 'Поле "Имя" обязательно для заполнения\nПоле "Телефон" обязательно для заполнения'
+[INFO][2026-05-10 21:34:14,579][BonusPage] Opening /bonus/
+[INFO][2026-05-10 21:34:14,602][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 21:34:18,744][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 21:34:19,614][BonusPage] Entering phone: abc12345
+[INFO][2026-05-10 21:34:20,092][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 21:34:23,759][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 21:34:23,880][BonusPage] Bonus error text: 'Введен неверный формат телефона'
+[INFO][2026-05-10 21:34:57,133][BonusPage] Opening /bonus/
+[INFO][2026-05-10 21:34:57,142][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 21:35:06,468][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 21:35:08,336][BonusPage] Entering phone: 12345
+[INFO][2026-05-10 21:35:08,930][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 21:35:12,718][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 21:35:12,980][BonusPage] Bonus error text: 'Введен неверный формат телефона'
+[INFO][2026-05-10 21:35:31,236][BonusPage] Opening /bonus/
+[INFO][2026-05-10 21:35:31,253][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 21:35:34,717][BonusPage] Entering name: Мария
+[INFO][2026-05-10 21:35:37,338][BonusPage] Entering phone: 89001234567
+[INFO][2026-05-10 21:35:39,233][BonusPage] Clicking Submit (Оформить карту)
+[INFO][2026-05-10 21:35:41,040][BonusPage] Alert text: Заявка отправлена, дождитесь, пожалуйста, оформления карты!
+[INFO][2026-05-10 21:35:41,434][BonusPage] Waiting for success heading...
+[INFO][2026-05-10 21:35:49,117][BonusPage] Success heading text: Ваша карта оформлена!
+[INFO][2026-05-10 21:36:24,938][CartPage] Opening /cart/
+[INFO][2026-05-10 21:36:24,947][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 21:36:27,233][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 21:36:27,242][CartPage] Applying coupon: GIVEMEHALYAVA
+[INFO][2026-05-10 21:36:32,493][CartPage] Discount: '43,50₽'
+[INFO][2026-05-10 21:36:34,015][CartPage] Cart total: '391,50₽'
+[INFO][2026-05-10 21:37:02,138][CartPage] Opening /cart/
+[INFO][2026-05-10 21:37:02,159][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 21:37:07,251][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 21:37:07,254][CartPage] Applying coupon: DC120
+[INFO][2026-05-10 21:37:11,851][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 21:37:17,166][CartPage] Coupon message: 'Неверный купон.'
+[INFO][2026-05-10 21:37:46,019][CartPage] Opening /cart/
+[INFO][2026-05-10 21:37:46,025][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 21:37:51,020][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 21:37:51,032][CartPage] Applying coupon: GIVEMEHALYAVA
+[INFO][2026-05-10 21:37:55,904][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 21:38:20,978][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 21:38:23,753][RegisterPage] Registering: k9307 / k9307@t.ru
+[INFO][2026-05-10 21:38:40,659][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 21:38:45,539][CartPage] Opening /cart/
+[INFO][2026-05-10 21:38:45,548][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 21:38:46,684][CartPage] Applying coupon: GIVEMEHALYAVA
+[INFO][2026-05-10 21:38:48,029][CartPage] Clicking checkout button
+[INFO][2026-05-10 21:39:14,815][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 21:39:22,169][MainPage] Adding pizza via direct add-to-cart URL
+[INFO][2026-05-10 21:39:25,308][CartPage] Opening /cart/
+[INFO][2026-05-10 21:39:25,311][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 21:39:29,416][CartPage] Cart items count: 1
+[INFO][2026-05-10 21:39:44,154][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 21:39:49,656][MainPage] Pizza count: 5
+[INFO][2026-05-10 21:40:01,605][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 21:40:16,838][MainPage] Clicking first pizza image
+[INFO][2026-05-10 21:42:31,175][CartPage] Opening /cart/
+[INFO][2026-05-10 21:42:31,275][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 21:42:33,649][CartPage] Cart items count: 1
+[INFO][2026-05-10 21:43:03,006][conftest] Pizza added to cart
+[INFO][2026-05-10 21:43:03,056][CartPage] Opening /cart/
+[INFO][2026-05-10 21:43:03,059][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 21:43:05,315][CartPage] Setting item[0] qty to 2
+[INFO][2026-05-10 21:43:06,824][CartPage] Clicking Update Cart
+[INFO][2026-05-10 21:43:08,392][CartPage] Opening /cart/
+[INFO][2026-05-10 21:43:08,394][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 21:44:37,023][conftest] Pizza added to cart
+[INFO][2026-05-10 21:44:38,016][CartPage] Opening /cart/
+[INFO][2026-05-10 21:44:38,019][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 21:44:40,898][CartPage] Cart items count: 1
+[INFO][2026-05-10 21:44:40,903][CartPage] Removing cart item[0]
+[INFO][2026-05-10 21:44:49,147][CartPage] Cart items count: 0
+[INFO][2026-05-10 21:45:14,050][MenuPage] Opening URL: http://pizzeria.skillbox.cc/product-category/menu/deserts/
+[INFO][2026-05-10 21:45:41,158][MenuPage] Opening URL: http://pizzeria.skillbox.cc/product-category/menu/deserts/
+[INFO][2026-05-10 21:45:48,296][CartPage] Opening /cart/
+[INFO][2026-05-10 21:45:48,306][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 21:45:50,582][CartPage] Cart items count: 1
+[INFO][2026-05-10 21:46:08,015][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 21:46:11,690][RegisterPage] Registering: k690 / k690@t.ru
+[INFO][2026-05-10 21:46:20,247][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 21:47:08,979][AccountPage] Opening URL: http://pizzeria.skillbox.cc/my-account/
+[INFO][2026-05-10 21:47:24,721][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 21:47:30,025][RegisterPage] Registering: k790 / k790@t.ru
+[INFO][2026-05-10 21:47:38,873][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 21:47:40,239][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 21:47:45,190][MainPage] Adding pizza via direct add-to-cart URL
+[INFO][2026-05-10 21:47:47,445][CartPage] Opening /cart/
+[INFO][2026-05-10 21:47:47,631][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 21:47:50,022][CartPage] Clicking checkout button
+[INFO][2026-05-10 21:47:52,230][CheckoutPage] Filling delivery: Андрей Тестов, Москва
+[INFO][2026-05-10 21:47:57,888][CheckoutPage] Setting delivery date: 11.05.2026
+[INFO][2026-05-10 21:47:58,311][CheckoutPage] Selecting Cash on Delivery
+[INFO][2026-05-10 21:47:58,933][CheckoutPage] Clicking Place Order
+[INFO][2026-05-10 21:48:00,353][CheckoutPage] Order confirmed: True
+[INFO][2026-05-10 22:00:11,626][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 22:00:19,672][RegisterPage] Registering: u439611 / u439611@t.ru
+[INFO][2026-05-10 22:00:36,583][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 22:00:37,192][RegisterPage] Logged in: logout link found
+[INFO][2026-05-10 22:02:23,584][BonusPage] Opening /bonus/
+[INFO][2026-05-10 22:02:23,751][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 22:02:30,649][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 22:02:32,544][BonusPage] Entering phone: +79001234567
+[INFO][2026-05-10 22:02:34,111][BonusPage] Clicking Submit (Оформить карту)
+[INFO][2026-05-10 22:02:36,018][BonusPage] Alert text: Заявка отправлена, дождитесь, пожалуйста, оформления карты!
+[INFO][2026-05-10 22:02:36,184][BonusPage] Waiting for success heading...
+[INFO][2026-05-10 22:02:41,844][BonusPage] Success heading text: Ваша карта оформлена!
+[INFO][2026-05-10 22:03:45,680][BonusPage] Opening /bonus/
+[INFO][2026-05-10 22:03:45,700][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 22:03:51,424][BonusPage] Entering phone: +79001234567
+[INFO][2026-05-10 22:03:52,862][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 22:03:59,975][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 22:04:02,809][BonusPage] Bonus error text: 'Поле "Имя" обязательно для заполнения'
+[INFO][2026-05-10 22:04:28,610][BonusPage] Opening /bonus/
+[INFO][2026-05-10 22:04:28,616][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 22:04:35,625][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 22:04:36,942][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 22:04:41,403][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 22:04:41,605][BonusPage] Bonus error text: 'Поле "Телефон" обязательно для заполнения'
+[INFO][2026-05-10 22:05:05,694][BonusPage] Opening /bonus/
+[INFO][2026-05-10 22:05:06,397][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 22:05:10,428][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 22:05:15,141][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 22:05:15,484][BonusPage] Bonus error text: 'Поле "Имя" обязательно для заполнения\nПоле "Телефон" обязательно для заполнения'
+[INFO][2026-05-10 22:05:38,354][BonusPage] Opening /bonus/
+[INFO][2026-05-10 22:05:38,660][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 22:05:42,540][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 22:05:44,001][BonusPage] Entering phone: abc12345
+[INFO][2026-05-10 22:05:44,525][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 22:05:48,238][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 22:05:48,452][BonusPage] Bonus error text: 'Введен неверный формат телефона'
+[INFO][2026-05-10 22:06:10,826][BonusPage] Opening /bonus/
+[INFO][2026-05-10 22:06:10,828][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 22:06:13,873][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 22:06:15,211][BonusPage] Entering phone: 12345
+[INFO][2026-05-10 22:06:16,454][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 22:06:20,959][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 22:06:21,130][BonusPage] Bonus error text: 'Введен неверный формат телефона'
+[INFO][2026-05-10 22:06:37,185][BonusPage] Opening /bonus/
+[INFO][2026-05-10 22:06:37,187][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 22:06:49,994][BonusPage] Entering name: Мария
+[INFO][2026-05-10 22:06:51,808][BonusPage] Entering phone: 89001234567
+[INFO][2026-05-10 22:06:52,508][BonusPage] Clicking Submit (Оформить карту)
+[INFO][2026-05-10 22:06:53,888][BonusPage] Alert text: Заявка отправлена, дождитесь, пожалуйста, оформления карты!
+[INFO][2026-05-10 22:06:53,992][BonusPage] Waiting for success heading...
+[INFO][2026-05-10 22:07:00,784][BonusPage] Success heading text: Ваша карта оформлена!
+[INFO][2026-05-10 22:07:40,572][CartPage] Opening /cart/
+[INFO][2026-05-10 22:07:40,577][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:07:44,058][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 22:07:44,065][CartPage] Applying coupon: GIVEMEHALYAVA
+[INFO][2026-05-10 22:07:54,489][CartPage] Discount: '43,50₽'
+[INFO][2026-05-10 22:07:55,644][CartPage] Cart total: '391,50₽'
+[INFO][2026-05-10 22:08:34,567][CartPage] Opening /cart/
+[INFO][2026-05-10 22:08:35,480][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:08:38,102][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 22:08:38,111][CartPage] Applying coupon: DC120
+[INFO][2026-05-10 22:08:42,130][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 22:08:47,332][CartPage] Coupon message: 'Неверный купон.'
+[INFO][2026-05-10 22:09:13,308][CartPage] Opening /cart/
+[INFO][2026-05-10 22:09:13,338][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:09:17,511][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 22:09:17,516][CartPage] Applying coupon: GIVEMEHALYAVA
+[INFO][2026-05-10 22:09:19,810][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 22:09:42,266][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 22:09:46,290][RegisterPage] Registering: k5506 / k5506@t.ru
+[INFO][2026-05-10 22:09:52,928][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 22:09:58,112][CartPage] Opening /cart/
+[INFO][2026-05-10 22:09:58,117][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:09:59,639][CartPage] Applying coupon: GIVEMEHALYAVA
+[INFO][2026-05-10 22:10:01,468][CartPage] Clicking checkout button
+[INFO][2026-05-10 22:10:27,014][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 22:10:30,741][MainPage] Adding pizza via direct add-to-cart URL
+[INFO][2026-05-10 22:10:32,179][CartPage] Opening /cart/
+[INFO][2026-05-10 22:10:32,203][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:10:33,582][CartPage] Cart items count: 1
+[INFO][2026-05-10 22:10:54,956][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 22:11:02,883][MainPage] Pizza count: 5
+[INFO][2026-05-10 22:11:24,330][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 22:11:29,681][MainPage] Clicking first pizza image
+[INFO][2026-05-10 22:12:34,905][CartPage] Opening /cart/
+[INFO][2026-05-10 22:12:34,976][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:12:37,620][CartPage] Cart items count: 1
+[INFO][2026-05-10 22:13:06,279][conftest] Pizza added to cart
+[INFO][2026-05-10 22:13:06,378][CartPage] Opening /cart/
+[INFO][2026-05-10 22:13:06,382][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:13:07,887][CartPage] Setting item[0] qty to 2
+[INFO][2026-05-10 22:13:10,140][CartPage] Clicking Update Cart
+[INFO][2026-05-10 22:13:12,289][CartPage] Opening /cart/
+[INFO][2026-05-10 22:13:12,292][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:13:40,946][conftest] Pizza added to cart
+[INFO][2026-05-10 22:13:41,092][CartPage] Opening /cart/
+[INFO][2026-05-10 22:13:41,117][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:13:43,047][CartPage] Cart items count: 1
+[INFO][2026-05-10 22:13:43,124][CartPage] Removing cart item[0]
+[INFO][2026-05-10 22:13:52,406][CartPage] Cart items count: 0
+[INFO][2026-05-10 22:14:12,712][MenuPage] Opening URL: http://pizzeria.skillbox.cc/product-category/menu/deserts/
+[INFO][2026-05-10 22:14:33,762][MenuPage] Opening URL: http://pizzeria.skillbox.cc/product-category/menu/deserts/
+[INFO][2026-05-10 22:14:49,722][CartPage] Opening /cart/
+[INFO][2026-05-10 22:14:49,940][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:14:53,714][CartPage] Cart items count: 1
+[INFO][2026-05-10 22:15:19,527][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 22:15:22,794][RegisterPage] Registering: u440519 / u440519@t.ru
+[INFO][2026-05-10 22:15:32,745][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 22:15:32,870][RegisterPage] Logged in: logout link found
+[INFO][2026-05-10 22:15:44,923][AccountPage] Opening URL: http://pizzeria.skillbox.cc/my-account/
+[INFO][2026-05-10 22:16:09,589][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 22:16:15,038][RegisterPage] Registering: k8697 / k8697@t.ru
+[INFO][2026-05-10 22:16:31,160][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 22:16:31,422][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 22:16:34,047][MainPage] Adding pizza via direct add-to-cart URL
+[INFO][2026-05-10 22:16:38,069][CartPage] Opening /cart/
+[INFO][2026-05-10 22:16:38,071][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:16:40,006][CartPage] Clicking checkout button
+[INFO][2026-05-10 22:16:42,152][CheckoutPage] Filling delivery: Андрей Тестов, Москва
+[INFO][2026-05-10 22:16:46,610][CheckoutPage] Setting delivery date: 11.05.2026
+[INFO][2026-05-10 22:16:47,039][CheckoutPage] Selecting Cash on Delivery
+[INFO][2026-05-10 22:16:47,695][CheckoutPage] Clicking Place Order
+[INFO][2026-05-10 22:16:49,135][CheckoutPage] Order confirmed: True
+[INFO][2026-05-10 22:29:54,321][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 22:29:58,243][RegisterPage] Registering: k9272 / k9272@t.ru
+[INFO][2026-05-10 22:30:05,970][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 22:30:10,737][CartPage] Opening /cart/
+[INFO][2026-05-10 22:30:10,939][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:30:12,317][CartPage] Applying coupon: GIVEMEHALYAVA
+[INFO][2026-05-10 22:30:16,062][CartPage] Clicking checkout button
+[INFO][2026-05-10 22:30:24,517][CheckoutPage] Filling delivery: Тест Тестов, Москва
+[INFO][2026-05-10 22:30:30,423][CheckoutPage] Setting delivery date: 11.05.2026
+[INFO][2026-05-10 22:30:30,853][CheckoutPage] Selecting Cash on Delivery
+[INFO][2026-05-10 22:30:31,363][CheckoutPage] Clicking Place Order
+[INFO][2026-05-10 22:30:32,953][CheckoutPage] Order confirmed: True
+[INFO][2026-05-10 22:30:36,956][CartPage] Opening /cart/
+[INFO][2026-05-10 22:30:36,957][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:30:39,774][CartPage] Cart total: '783,00₽'
+[INFO][2026-05-10 22:30:39,777][CartPage] Applying coupon: GIVEMEHALYAVA
+[INFO][2026-05-10 22:30:41,734][CartPage] Cart total: '783,00₽'
+[INFO][2026-05-10 22:30:46,905][CartPage] Coupon message: 'Coupon code already applied!'
+[INFO][2026-05-10 22:32:20,451][BonusPage] Opening /bonus/
+[INFO][2026-05-10 22:32:20,623][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 22:32:23,655][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 22:32:24,807][BonusPage] Entering phone: +79001234567
+[INFO][2026-05-10 22:32:27,335][BonusPage] Clicking Submit (Оформить карту)
+[INFO][2026-05-10 22:32:28,689][BonusPage] Alert text: Заявка отправлена, дождитесь, пожалуйста, оформления карты!
+[INFO][2026-05-10 22:32:28,850][BonusPage] Waiting for success heading...
+[INFO][2026-05-10 22:32:34,971][BonusPage] Success heading text: Ваша карта оформлена!
+[INFO][2026-05-10 22:32:46,042][BonusPage] Opening /bonus/
+[INFO][2026-05-10 22:32:46,065][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 22:32:49,451][BonusPage] Entering phone: +79001234567
+[INFO][2026-05-10 22:32:50,496][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 22:32:53,949][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 22:32:54,636][BonusPage] Bonus error text: 'Поле "Имя" обязательно для заполнения'
+[INFO][2026-05-10 22:33:23,946][BonusPage] Opening /bonus/
+[INFO][2026-05-10 22:33:24,003][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 22:33:28,922][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 22:33:30,567][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 22:33:35,074][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 22:33:35,592][BonusPage] Bonus error text: 'Поле "Телефон" обязательно для заполнения'
+[INFO][2026-05-10 22:33:52,597][BonusPage] Opening /bonus/
+[INFO][2026-05-10 22:33:52,679][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 22:33:56,454][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 22:34:00,922][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 22:34:01,091][BonusPage] Bonus error text: 'Поле "Имя" обязательно для заполнения\nПоле "Телефон" обязательно для заполнения'
+[INFO][2026-05-10 22:34:32,271][BonusPage] Opening /bonus/
+[INFO][2026-05-10 22:34:32,306][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 22:34:36,325][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 22:34:37,111][BonusPage] Entering phone: abc12345
+[INFO][2026-05-10 22:34:37,850][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 22:34:41,532][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 22:34:41,767][BonusPage] Bonus error text: 'Введен неверный формат телефона'
+[INFO][2026-05-10 22:35:05,910][BonusPage] Opening /bonus/
+[INFO][2026-05-10 22:35:06,063][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 22:35:17,241][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 22:35:20,848][BonusPage] Entering phone: 12345
+[INFO][2026-05-10 22:35:22,500][BonusPage] Clicking Submit (Оформить карту)
+[DEBUG][2026-05-10 22:35:26,189][BonusPage] No alert appeared after submit
+[INFO][2026-05-10 22:35:26,320][BonusPage] Bonus error text: 'Введен неверный формат телефона'
+[INFO][2026-05-10 22:35:45,954][BonusPage] Opening /bonus/
+[INFO][2026-05-10 22:35:46,579][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 22:35:54,759][BonusPage] Entering name: Мария
+[INFO][2026-05-10 22:35:56,121][BonusPage] Entering phone: 89001234567
+[INFO][2026-05-10 22:35:57,378][BonusPage] Clicking Submit (Оформить карту)
+[INFO][2026-05-10 22:35:58,623][BonusPage] Alert text: Заявка отправлена, дождитесь, пожалуйста, оформления карты!
+[INFO][2026-05-10 22:35:58,778][BonusPage] Waiting for success heading...
+[INFO][2026-05-10 22:36:04,580][BonusPage] Success heading text: Ваша карта оформлена!
+[INFO][2026-05-10 22:36:32,670][CartPage] Opening /cart/
+[INFO][2026-05-10 22:36:33,226][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:36:36,327][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 22:36:36,391][CartPage] Applying coupon: GIVEMEHALYAVA
+[INFO][2026-05-10 22:36:39,857][CartPage] Discount: '43,50₽'
+[INFO][2026-05-10 22:36:41,191][CartPage] Cart total: '391,50₽'
+[INFO][2026-05-10 22:37:18,509][CartPage] Opening /cart/
+[INFO][2026-05-10 22:37:18,612][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:37:22,514][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 22:37:22,519][CartPage] Applying coupon: DC120
+[INFO][2026-05-10 22:37:26,731][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 22:37:32,053][CartPage] Coupon message: 'Неверный купон.'
+[INFO][2026-05-10 22:38:02,469][CartPage] Opening /cart/
+[INFO][2026-05-10 22:38:02,767][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:38:15,021][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 22:38:15,025][CartPage] Applying coupon: GIVEMEHALYAVA
+[INFO][2026-05-10 22:38:18,287][CartPage] Cart total: '435,00₽'
+[INFO][2026-05-10 22:39:10,514][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 22:39:13,150][RegisterPage] Registering: k7633 / k7633@t.ru
+[INFO][2026-05-10 22:39:20,860][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 22:39:27,773][CartPage] Opening /cart/
+[INFO][2026-05-10 22:39:27,776][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:39:29,035][CartPage] Applying coupon: GIVEMEHALYAVA
+[INFO][2026-05-10 22:39:32,168][CartPage] Clicking checkout button
+[INFO][2026-05-10 22:39:34,399][CheckoutPage] Filling delivery: Тест Тестов, Москва
+[INFO][2026-05-10 22:39:39,616][CheckoutPage] Setting delivery date: 11.05.2026
+[INFO][2026-05-10 22:39:39,999][CheckoutPage] Selecting Cash on Delivery
+[INFO][2026-05-10 22:39:41,034][CheckoutPage] Clicking Place Order
+[INFO][2026-05-10 22:39:42,741][CheckoutPage] Order confirmed: True
+[INFO][2026-05-10 22:39:46,801][CartPage] Opening /cart/
+[INFO][2026-05-10 22:39:46,802][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:39:48,884][CartPage] Cart total: '783,00₽'
+[INFO][2026-05-10 22:39:48,887][CartPage] Applying coupon: GIVEMEHALYAVA
+[INFO][2026-05-10 22:39:50,914][CartPage] Cart total: '783,00₽'
+[INFO][2026-05-10 22:39:56,036][CartPage] Coupon message: 'Coupon code already applied!'
+[INFO][2026-05-10 22:40:40,917][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 22:40:44,855][MainPage] Adding pizza via direct add-to-cart URL
+[INFO][2026-05-10 22:40:46,558][CartPage] Opening /cart/
+[INFO][2026-05-10 22:40:46,560][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:40:49,146][CartPage] Cart items count: 1
+[INFO][2026-05-10 22:41:09,488][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 22:41:14,381][MainPage] Pizza count: 5
+[INFO][2026-05-10 22:41:33,940][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 22:41:42,644][MainPage] Clicking first pizza image
+[INFO][2026-05-10 22:42:58,476][CartPage] Opening /cart/
+[INFO][2026-05-10 22:42:58,494][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:43:00,367][CartPage] Cart items count: 1
+[INFO][2026-05-10 22:43:20,008][conftest] Pizza added to cart
+[INFO][2026-05-10 22:43:20,087][CartPage] Opening /cart/
+[INFO][2026-05-10 22:43:20,118][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:43:21,479][CartPage] Setting item[0] qty to 2
+[INFO][2026-05-10 22:43:22,442][CartPage] Clicking Update Cart
+[INFO][2026-05-10 22:43:24,223][CartPage] Opening /cart/
+[INFO][2026-05-10 22:43:24,237][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:43:50,318][conftest] Pizza added to cart
+[INFO][2026-05-10 22:43:50,355][CartPage] Opening /cart/
+[INFO][2026-05-10 22:43:50,581][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:43:52,695][CartPage] Cart items count: 1
+[INFO][2026-05-10 22:43:52,708][CartPage] Removing cart item[0]
+[INFO][2026-05-10 22:43:59,772][CartPage] Cart items count: 0
+[INFO][2026-05-10 22:44:14,392][MenuPage] Opening URL: http://pizzeria.skillbox.cc/product-category/menu/deserts/
+[INFO][2026-05-10 22:44:40,607][MenuPage] Opening URL: http://pizzeria.skillbox.cc/product-category/menu/deserts/
+[INFO][2026-05-10 22:44:46,609][CartPage] Opening /cart/
+[INFO][2026-05-10 22:44:46,611][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:44:50,413][CartPage] Cart items count: 1
+[INFO][2026-05-10 22:45:09,035][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 22:45:13,368][RegisterPage] Registering: u442309 / u442309@t.ru
+[INFO][2026-05-10 22:45:23,071][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 22:45:23,252][RegisterPage] Logged in: logout link found
+[INFO][2026-05-10 22:45:47,003][AccountPage] Opening URL: http://pizzeria.skillbox.cc/my-account/
+[INFO][2026-05-10 22:46:13,271][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 22:46:17,065][RegisterPage] Registering: k4913 / k4913@t.ru
+[INFO][2026-05-10 22:46:25,167][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 22:46:25,234][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 22:46:26,423][MainPage] Adding pizza via direct add-to-cart URL
+[INFO][2026-05-10 22:46:27,963][CartPage] Opening /cart/
+[INFO][2026-05-10 22:46:27,964][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:46:29,345][CartPage] Clicking checkout button
+[INFO][2026-05-10 22:46:31,198][CheckoutPage] Filling delivery: Андрей Тестов, Москва
+[INFO][2026-05-10 22:46:34,808][CheckoutPage] Setting delivery date: 11.05.2026
+[INFO][2026-05-10 22:46:35,179][CheckoutPage] Selecting Cash on Delivery
+[INFO][2026-05-10 22:46:35,669][CheckoutPage] Clicking Place Order
+[INFO][2026-05-10 22:46:36,908][CheckoutPage] Order confirmed: True

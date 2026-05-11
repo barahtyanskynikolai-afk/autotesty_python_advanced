@@ -1,0 +1,3 @@
+[INFO][2026-05-10 22:42:58,476][CartPage] Opening /cart/
+[INFO][2026-05-10 22:42:58,494][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:43:00,367][CartPage] Cart items count: 1

@@ -1,0 +1,4 @@
+[INFO][2026-05-10 22:45:09,035][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 22:45:13,368][RegisterPage] Registering: u442309 / u442309@t.ru
+[INFO][2026-05-10 22:45:23,071][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 22:45:23,252][RegisterPage] Logged in: logout link found

@@ -1,0 +1,4 @@
+[32mINFO    [0m RegisterPage:base_page.py:18 Opening URL: http://pizzeria.skillbox.cc/register/
+[32mINFO    [0m RegisterPage:account_page.py:68 Registering: u442309 / u442309@t.ru
+[32mINFO    [0m RegisterPage:account_page.py:75 After register URL: https://pizzeria.skillbox.cc/register/
+[32mINFO    [0m RegisterPage:account_page.py:85 Logged in: logout link found

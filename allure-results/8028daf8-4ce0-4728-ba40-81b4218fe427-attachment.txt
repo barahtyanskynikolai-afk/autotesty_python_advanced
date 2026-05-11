@@ -1,0 +1,5 @@
+[32mINFO    [0m BonusPage:bonus_page.py:46 Opening /bonus/
+[32mINFO    [0m BonusPage:base_page.py:18 Opening URL: http://pizzeria.skillbox.cc/bonus/
+[32mINFO    [0m BonusPage:bonus_page.py:65 Clicking Submit (Оформить карту)
+[35mDEBUG   [0m BonusPage:bonus_page.py:74 No alert appeared after submit
+[32mINFO    [0m BonusPage:bonus_page.py:100 Bonus error text: 'Поле "Имя" обязательно для заполнения\nПоле "Телефон" обязательно для заполнения'

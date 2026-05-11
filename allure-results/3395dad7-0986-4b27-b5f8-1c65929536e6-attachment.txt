@@ -1,0 +1,7 @@
+[32mINFO    [0m conftest:conftest.py:74 Pizza added to cart
+[32mINFO    [0m CartPage:cart_page.py:83 Opening /cart/
+[32mINFO    [0m CartPage:base_page.py:18 Opening URL: http://pizzeria.skillbox.cc/cart/
+[32mINFO    [0m CartPage:cart_page.py:101 Setting item[0] qty to 2
+[32mINFO    [0m CartPage:cart_page.py:111 Clicking Update Cart
+[32mINFO    [0m CartPage:cart_page.py:83 Opening /cart/
+[32mINFO    [0m CartPage:base_page.py:18 Opening URL: http://pizzeria.skillbox.cc/cart/

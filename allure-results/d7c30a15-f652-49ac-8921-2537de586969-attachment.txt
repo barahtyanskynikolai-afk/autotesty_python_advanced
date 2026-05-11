@@ -1,0 +1,6 @@
+[INFO][2026-05-10 22:43:50,318][conftest] Pizza added to cart
+[INFO][2026-05-10 22:43:50,355][CartPage] Opening /cart/
+[INFO][2026-05-10 22:43:50,581][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:43:52,695][CartPage] Cart items count: 1
+[INFO][2026-05-10 22:43:52,708][CartPage] Removing cart item[0]
+[INFO][2026-05-10 22:43:59,772][CartPage] Cart items count: 0

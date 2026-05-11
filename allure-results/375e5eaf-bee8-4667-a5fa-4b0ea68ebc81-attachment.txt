@@ -1,0 +1,6 @@
+[INFO][2026-05-10 22:34:32,271][BonusPage] Opening /bonus/
+[INFO][2026-05-10 22:34:32,306][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 22:34:36,325][BonusPage] Entering name: Андрей
+[INFO][2026-05-10 22:34:37,111][BonusPage] Entering phone: abc12345
+[INFO][2026-05-10 22:34:37,850][BonusPage] Clicking Submit (Оформить карту)
+[INFO][2026-05-10 22:34:41,767][BonusPage] Bonus error text: 'Введен неверный формат телефона'

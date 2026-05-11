@@ -1,0 +1,13 @@
+[INFO][2026-05-10 22:46:13,271][RegisterPage] Opening URL: http://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 22:46:17,065][RegisterPage] Registering: k4913 / k4913@t.ru
+[INFO][2026-05-10 22:46:25,167][RegisterPage] After register URL: https://pizzeria.skillbox.cc/register/
+[INFO][2026-05-10 22:46:25,234][MainPage] Opening URL: http://pizzeria.skillbox.cc/
+[INFO][2026-05-10 22:46:26,423][MainPage] Adding pizza via direct add-to-cart URL
+[INFO][2026-05-10 22:46:27,963][CartPage] Opening /cart/
+[INFO][2026-05-10 22:46:27,964][CartPage] Opening URL: http://pizzeria.skillbox.cc/cart/
+[INFO][2026-05-10 22:46:29,345][CartPage] Clicking checkout button
+[INFO][2026-05-10 22:46:31,198][CheckoutPage] Filling delivery: Андрей Тестов, Москва
+[INFO][2026-05-10 22:46:34,808][CheckoutPage] Setting delivery date: 11.05.2026
+[INFO][2026-05-10 22:46:35,179][CheckoutPage] Selecting Cash on Delivery
+[INFO][2026-05-10 22:46:35,669][CheckoutPage] Clicking Place Order
+[INFO][2026-05-10 22:46:36,908][CheckoutPage] Order confirmed: True

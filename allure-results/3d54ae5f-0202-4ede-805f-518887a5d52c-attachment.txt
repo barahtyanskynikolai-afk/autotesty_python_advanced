@@ -1,0 +1,8 @@
+[INFO][2026-05-10 22:35:45,954][BonusPage] Opening /bonus/
+[INFO][2026-05-10 22:35:46,579][BonusPage] Opening URL: http://pizzeria.skillbox.cc/bonus/
+[INFO][2026-05-10 22:35:54,759][BonusPage] Entering name: Мария
+[INFO][2026-05-10 22:35:56,121][BonusPage] Entering phone: 89001234567
+[INFO][2026-05-10 22:35:57,378][BonusPage] Clicking Submit (Оформить карту)
+[INFO][2026-05-10 22:35:58,623][BonusPage] Alert text: Заявка отправлена, дождитесь, пожалуйста, оформления карты!
+[INFO][2026-05-10 22:35:58,778][BonusPage] Waiting for success heading...
+[INFO][2026-05-10 22:36:04,580][BonusPage] Success heading text: Ваша карта оформлена!

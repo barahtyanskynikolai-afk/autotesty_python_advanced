@@ -1,0 +1,8 @@
+[32mINFO    [0m BonusPage:bonus_page.py:46 Opening /bonus/
+[32mINFO    [0m BonusPage:base_page.py:18 Opening URL: http://pizzeria.skillbox.cc/bonus/
+[32mINFO    [0m BonusPage:bonus_page.py:51 Entering name: Мария
+[32mINFO    [0m BonusPage:bonus_page.py:56 Entering phone: 89001234567
+[32mINFO    [0m BonusPage:bonus_page.py:65 Clicking Submit (Оформить карту)
+[32mINFO    [0m BonusPage:bonus_page.py:71 Alert text: Заявка отправлена, дождитесь, пожалуйста, оформления карты!
+[32mINFO    [0m BonusPage:bonus_page.py:82 Waiting for success heading...
+[32mINFO    [0m BonusPage:bonus_page.py:88 Success heading text: Ваша карта оформлена!

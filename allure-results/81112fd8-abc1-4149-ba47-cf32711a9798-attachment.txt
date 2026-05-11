@@ -1,0 +1,15 @@
+INPUT: id=, name=s, type=text
+INPUT: id=, name=post_type, type=hidden
+INPUT: id=reg_username, name=username, type=text
+INPUT: id=reg_email, name=email, type=email
+INPUT: id=reg_password, name=password, type=password
+INPUT: id=woocommerce-register-nonce, name=woocommerce-register-nonce, type=hidden
+INPUT: id=, name=_wp_http_referer, type=hidden
+BUTTON: name=, type=submit, text=
+BUTTON: name=, type=submit, text=
+BUTTON: name=register, type=submit, text=ЗАРЕГИСТРИРОВАТЬСЯ
+
+Before submit URL: https://pizzeria.skillbox.cc/register/
+After submit URL: https://pizzeria.skillbox.cc/register/
+Page title: Регистрация — Pizzeria
+ERROR: Error: Максимальное допустимое количество символов: 20
